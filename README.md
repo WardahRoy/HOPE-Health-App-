@@ -1,2 +1,2 @@
-# HOPE-Health-App-
-Java Swing based health tracking application with fast login and modern UI
+Hope Health App is a Python Kivy-based mobile application for secure user authentication
+Real-time tracking of key health metrics with intuitive dashboards.
